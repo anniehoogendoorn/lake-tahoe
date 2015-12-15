@@ -19,3 +19,19 @@
   margin: auto;
   max-width: 960px;
 }
+
+//Colums
+
+%columns {
+  width: 46.5%;
+}
+
+// Clearfix
+
+%clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}

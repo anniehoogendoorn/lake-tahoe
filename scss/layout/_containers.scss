@@ -9,6 +9,7 @@
 .secondary-content {
   @extend %content;
   @extend %top-border;
+  @extend %clearfix;
 	padding-top: 80px;
 	padding-bottom: 70px;
   border-bottom: 2px solid #dfe2e6;
