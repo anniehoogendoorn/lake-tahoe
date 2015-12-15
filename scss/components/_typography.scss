@@ -9,7 +9,7 @@
 .main {
   &-heading {
     font-size: 5.625rem;
-    color: rgba(255, 255, 255, 1);
+    color: rgba($color-text-light, 1);
     text-transform: uppercase;
     font-weight: normal;
     line-height: 1.3;

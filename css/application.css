@@ -44,11 +44,11 @@ a:link {
   color: #ffa949;
   text-decoration: none; }
 a:visited {
-  color: lightblue; }
+  color: #add8e6; }
 a:hover {
-  color: rgba(255, 169, 73, 0.4); }
+  color: rgba(255, 169, 73, 0.5); }
 a:active {
-  color: lightcoral; }
+  color: #add8e6; }
 
 /* Layout imports
 ================================== */
