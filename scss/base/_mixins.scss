@@ -18,3 +18,9 @@
   font-weight: $weight;
   color: $color;
 }
+
+// Media Query breakpoints
+
+$brk-narrow : '(max-width: 768px)';
+$brk-wide   :  '(max-width: 1024px)' ;
+;
