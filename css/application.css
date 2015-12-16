@@ -7,9 +7,11 @@
   box-sizing: border-box; }
 
 body {
+  font-size: 1em;
+  line-height: 1.5;
   color: #878787;
   margin: 0;
-  font: 1em/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 h1,
 h2 {
@@ -17,14 +19,14 @@ h2 {
 
 h2 {
   font-size: 3.3125em;
-  font-weight: normal;
   line-height: 1.1;
+  font-weight: normal;
   margin: 0 0 .5em; }
 
 h3 {
   font-size: 1.25em;
-  color: #48525c;
   line-height: 1.2;
+  color: #48525c;
   margin-bottom: 1.7em; }
 
 img {
